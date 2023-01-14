@@ -1,6 +1,8 @@
 # minesweeper
 Minesweeper - Pyglet
 
+![Minesweeper](img.JPG)
+
 Dependencies: Pyglet, Random, Time
 
     pip install pyglet
